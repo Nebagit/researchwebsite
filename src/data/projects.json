@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Reliable Learning Under Shift",
+    "description": "Building training pipelines and evaluation suites for learning under distribution shift with guarantees.",
+    "tech": ["PyTorch", "JAX", "CUDA", "Ray"],
+    "collaborators": ["A. Collaborator", "B. Collaborator"],
+    "outcomes": "Prototype library, benchmark results, technical report.",
+    "links": [{ "label": "Repository", "url": "#" }],
+    "status": "Ongoing"
+  },
+  {
+    "title": "Interpretable Optimization Layers",
+    "description": "Differentiable convex layers embedded in deep networks for transparency and control.",
+    "tech": ["Python", "CVXPY", "Torch"],
+    "outcomes": "Open-source module and reproducible demos.",
+    "links": [{ "label": "Paper", "url": "#" }, { "label": "Code", "url": "#" }],
+    "status": "Completed"
+  },
+  {
+    "title": "Scalable Continual Learning System",
+    "description": "A distributed system to support data streams and rehearsal with resource constraints.",
+    "tech": ["Kubernetes", "gRPC", "Kafka"],
+    "collaborators": ["C. Collaborator"],
+    "outcomes": "System design, performance evaluation, best practices.",
+    "links": [{ "label": "Documentation", "url": "#" }],
+    "status": "Completed"
+  }
+]
+

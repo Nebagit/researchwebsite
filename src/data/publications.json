@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Interpretable Optimization Layers for Robust Learning",
+    "authors": "N. Tefera, A. Collaborator",
+    "year": 2025,
+    "doi": "10.0000/example.doi.2025.1",
+    "summary": "We integrate differentiable optimization layers into deep networks to improve robustness under distribution shift.",
+    "pdf": "#",
+    "topics": ["Robustness", "Optimization", "Interpretable AI"]
+  },
+  {
+    "title": "Scalable Systems for Continual Learning",
+    "authors": "N. Tefera, B. Collaborator",
+    "year": 2024,
+    "doi": "10.0000/example.doi.2024.2",
+    "summary": "A distributed training system for continual learning with efficient memory and compute usage.",
+    "pdf": "#",
+    "topics": ["Systems", "Continual Learning"]
+  },
+  {
+    "title": "Evaluation Protocols for Reliable AI",
+    "authors": "N. Tefera",
+    "year": 2024,
+    "summary": "Guidelines and benchmarks for assessing stability, fairness, and reliability in AI models.",
+    "pdf": "#",
+    "topics": ["Evaluation", "Reliability", "Fairness"]
+  },
+  {
+    "title": "Lightweight Reasoning with Structured Priors",
+    "authors": "N. Tefera, C. Collaborator",
+    "year": 2023,
+    "doi": "10.0000/example.doi.2023.3",
+    "summary": "We propose structured priors that improve reasoning performance without heavy compute.",
+    "pdf": "#",
+    "topics": ["Reasoning", "Structured Priors"]
+  }
+]
+

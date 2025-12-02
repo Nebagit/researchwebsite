@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth font rendering */
+html, body, #root {
+  height: 100%;
+}
+
+/* Subtle selection color */
+::selection {
+  background-color: rgba(245, 158, 11, 0.2);
+}
+
+/* Focus styles for accessibility */
+:focus-visible {
+  outline: 2px solid #F59E0B;
+  outline-offset: 2px;
+}
+
